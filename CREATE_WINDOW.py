@@ -327,6 +327,6 @@ class СreateInfoWindow(tk.Tk):
 
 
 if __name__ == '__main__':
-    print('hellow')
+    print('hello')
     app = СreateInfoWindow()
     app.mainloop()
